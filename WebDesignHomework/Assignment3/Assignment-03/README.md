@@ -12,4 +12,4 @@ Some goals I have for this semester are:
 
 [This is something you should look at if you enjoy gardening](https://www.gardencityharvest.org/)
 
-[Eating Pho In South Korea](./images/pho.jpg)
+[Screenshot of wordwrap](./images/Screenshot%202024-09-16%20092943.png)
