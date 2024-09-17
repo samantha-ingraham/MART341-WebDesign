@@ -10,6 +10,5 @@ Some goals I have for this semester are:
 2. Successfully using github desktop to easily push and pull info between my computers.
 3. Getting comfortable with java
 
-[This is something you should look at if you enjoy gardening](https://www.gardencityharvest.org/)
-
 [Screenshot of wordwrap](./images/Screenshot%202024-09-16%20092943.png)
+[responses](./responses.txt)
