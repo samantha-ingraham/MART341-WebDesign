@@ -12,10 +12,10 @@ HTML, XML, XHTML—what sets them apart?
 
 What are the four essential elements every HTML page needs?
 
-The <!DOCTYPE> declaration. - instructs the web browser on the html page's version is
-The <root> element. - sort of anchors where the html is. situated outside all other content and tells the browser where all the html content is located.
-The <head> element. -contains high level info for the website not usually visible to users. Title is a required element of head.
-The <body> element. -container for all ~~your junk~~ your content and data.
+1) The <!DOCTYPE> declaration. - instructs the web browser on the html page's version is
+2) The root element. - sort of anchors where the html is. situated outside all other content and tells the browser where all the html content is located.
+3) The head element. -contains high level info for the website not usually visible to users. Title is a required element of head.
+4) The body element. -container for all ~~your junk~~ your content and data.
 
 What’s the purpose of the index.html page, and where should it be placed?
 
