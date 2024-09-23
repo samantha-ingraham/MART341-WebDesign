@@ -38,4 +38,5 @@ Review: What are the top naming practices for clean and organized code?
 2) Use similar names for similar things. **doMath() doAddition() doBlahBlahBLah()** vs ~~doMath() completeAddition() finishBlahBLahBLah()~~
 3) use pronouncable names **doMath()** vs ~~dmth()~~
 4) use search friendly names **int sum = 0** vs ~~int s = 0~~
+
 That is all the commonalities I was able to find online for code specifically, with people's opinion varying on things that **absolutely must be done** from there onward. 
