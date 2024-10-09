@@ -1,0 +1,31 @@
+/* Set the background color of the body */
+body {
+    background-color: #f55fa5;
+}
+
+/* Set the font properties for paragraphs */
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+/* Style for headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #444;
+}
+
+/* Add padding and margin to all elements */
+* {
+    margin: 10px;
+    padding: 5px;
+    
+}
+
+/* Style for links */
+a {
+    color: #000000;
+    text-decoration: underline;
+}
+
