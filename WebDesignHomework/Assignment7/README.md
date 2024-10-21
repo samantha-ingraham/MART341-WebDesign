@@ -1,0 +1,2 @@
+
+Honestly, I’m pretty proud of how my website looks and feels. The bright pink background gives it a nice girly vibe, which I enjoy immensely, and it’s easy to read. I think the table on the first page is a solid way to show my book ratings in shorthand to give people an idea of maybe where they could start looking. The form on the second page will help me engage people, and also maybe give me a little touch stone on how many people are looking past the first page of my site. Overall, it just has a nice flow that makes it easy to explore.
