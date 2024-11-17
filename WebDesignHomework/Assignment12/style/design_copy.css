@@ -1,0 +1,97 @@
+/* Overall Colors and Background */
+body {
+    background-color: #de7777;
+    color: #472929;
+}
+
+a {
+    text-decoration: underline;
+    color: #3E2A2A;
+    font-size: 1em;
+}
+
+a:hover {
+    color: #6f4722;
+}
+
+/* Text Elements */
+p {
+    font-size: 1em;
+    margin:1%;
+    font-style: oblique;
+}
+
+h1 {
+    text-align: center;
+    align-content: center;
+    font-size: 3em;
+    margin: 1%;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 0%;
+    padding: 0%;
+    text-align: right;
+}
+
+h4 { 
+    margin:0%;
+    text-align: start;
+}
+
+ul {
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+
+li {
+    font-size: 1em;
+    padding-left: 2%;
+}
+
+ol {
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; /* Stacks sections on narrow screens */
+    margin-top: 1%;
+    width:100%;
+}
+
+.section {
+    background-color: rgb(222, 140, 140);
+    border: 3px solid #472929;
+    border-radius: 8px;
+    margin: 1%;
+    padding: 1%;
+    width: 45%; /* helps with layout*/
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* make it purty */
+    display: inline-block; /*side-by-side display */
+    vertical-align: top;
+}
+
+.section2 {
+    margin: 1%;
+    width: 47%; 
+    display: inline-block;
+    vertical-align: top;
+}
+
+.step {
+    text-align: center;
+    margin: 1%;
+    width: 20%;
+    display: inline-block;
+}
+
+#libby_walkthrough {
+    width:100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
