@@ -1,0 +1,39 @@
+.suggestion-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 2%
+}
+
+.section {
+    flex: 1;
+    width: 48%;
+    background-color: rgb(222, 140, 140);
+    border: 3px solid #472929;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px #351f1f;
+    margin: 1%;
+    padding: 1%;
+}
+
+#book-img {
+    flex: 1;
+    max-width: 48%;
+    margin: 1%;
+    padding: 1%;
+}
+
+@media (max-width: 600px) {
+    .suggestion-page {
+        justify-content: center;
+    }
+
+    .section {
+        width:95vw;
+    }
+
+    #book-img {
+        max-width:95vw;
+    }
+}
