@@ -1,0 +1,10 @@
+#purchase-box{
+    width:95%;
+    aspect-ratio: 9/16;
+    max-width: 250px;
+}
+
+#clip-bookshelf{
+    width:10vw;
+    min-width: 50px;
+}
