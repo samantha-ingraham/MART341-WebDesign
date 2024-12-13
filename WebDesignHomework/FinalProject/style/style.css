@@ -1,0 +1,90 @@
+/*basics*/
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #de7777;
+    color: #472929;
+    font-family: 'Nunito', serif;
+    font-size: clamp(15px, 2vw, 20px);
+}
+
+h2 {
+    font-size: clamp(15px, 3vw, 25px);
+}
+
+a {
+    text-decoration: underline;
+    color: #472929;
+    font-style: normal;
+}
+
+a:hover {
+    color: #321d1d; /* Color when the link is hovered */
+}
+
+/*classes for idividual but used on multiple pages or used on index shit*/
+.book_ul { 
+    font-style: oblique;
+    list-style: none;
+    padding-left: 2%;
+    
+}
+
+.nav-colors{
+    background-color: #c26565;
+    border-top: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.nav-colors a:hover{
+    background-color: #de7777;
+    border-radius: 4px;
+}
+
+.section-style{
+    background-color: rgb(222, 140, 140);
+    border: 3px solid #472929;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px #351f1f;
+}
+
+/* Fonts */
+
+/* used everywhere */
+@font-face {
+    font-family: 'Nunito';
+    src: url(../fonts/Nunito-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+/* used for einstein quote */
+.quintessential-regular {
+    font-family: "Quintessential", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*ID's for specific items*/
+
+#einstein{    
+    font-family: 'Quintessential', serif;
+    font-size: clamp(18px, 2vw, 30px);
+}
+
+#youtube-video{
+    width:95%;
+    aspect-ratio: 16/9;
+}
+
+/* stuff for my little book icon image  */
+#book-icon{
+    width: 60px;
+    height: auto; 
+    border-radius: 50%;
+    padding:0%;
+    margin:0%;
+}

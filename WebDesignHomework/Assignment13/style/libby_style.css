@@ -19,7 +19,7 @@ ol, ul, li {
     flex-wrap: wrap; /* Stacks sections on narrow screens */
     width:100%;
 }
-
+ 
 .section {
     min-width: 250px;
     width:48%;

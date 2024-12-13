@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+/* purchase box sizing and aspect ratio for iframe */
+#purchase-box{
+    width:95%;
+    aspect-ratio: 9/16;
+    max-width: 250px;
+}

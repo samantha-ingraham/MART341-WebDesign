@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+/* coloring for the form boxes */
+.form-color {
+    background-color: #ed8b8b;
+    border-color: #472929;
+}
